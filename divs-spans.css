@@ -1,0 +1,21 @@
+body{
+  /*background: gray;*/
+  background: url(https://images.pexels.com/photos/1631678/pexels-photo-1631678.jpeg?cs=srgb&dl=pexels-abdghat-1631678.jpg&fm=jpg);
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+div{
+  background: rgba(255, 147, 65, 0.748);
+  border: rgb(114, 141, 170) thick dotted;
+
+  }
+
+p{
+  background-color: rgb(255, 244, 196);
+  color: rgb(0, 0, 0);
+}
+span{
+  background: rgb(65, 80, 96);
+  color: rgb(255, 244, 196);
+}
