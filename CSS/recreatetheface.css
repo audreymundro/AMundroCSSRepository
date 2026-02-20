@@ -1,0 +1,68 @@
+body{
+    background-color: #686868;
+}
+#face{
+    width: 300px;
+    height: 370px;
+    background-color: #f6ff00;
+    position: relative;
+    margin: 50px auto;
+}
+.eye{
+    width: 100px;
+    height: 100px;
+    background-color: #fff;
+    border: px solid #000;
+    position: absolute;
+    top: 50px;
+}
+#left-eye{left: 30px;}
+#right-eye{left: 150px;}
+.pupil{
+    width: 50px;
+    height: 50px;
+    background-color: #000;
+    position: absolute;
+    top: 60px;
+}
+#left-pupil{left: 45px;}
+#right-pupil{left: 165px;}
+
+.mouth{
+    width: 250px;
+    height: 170px;
+    background-color: #000000;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+.teeth{
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    position: absolute;
+    top: 10px;
+}
+#tooth1{left: 10px;}
+#tooth2{left: 50px;}
+#tooth3{left: 90px;}
+#tooth4{left: 130px;}
+#tooth5{left: 170px;}
+#tooth6{left: 210px;}
+
+.tongue{
+    width: 120px;
+    height: 90px;
+    background-color: #ff0000;
+    position: absolute;
+    bottom: 5px;
+    left: 65px;
+}
+.tongue-middle{
+    width: 7px;
+    height: 80px;
+    background-color: #000000;
+    position: absolute;
+    bottom: 10px;
+    left: 55px;
+}
